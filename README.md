@@ -1,7 +1,7 @@
 <section>
   <h1>API Testing with Postman</h1>
   <p>As part of my software testing development, I've honed my skills in API testing using Postman. This powerful tool has enabled me to effectively validate the functionality of various APIs. I have developed a strong foundation in API testing methodologies and best practices. I am confident in my ability to effectively test APIs, identify defects, and contribute to the overall quality of software applications</p>
-
+  
   <h3>Key skills:</h3>
   <ul>
     <li>Creating and running collections</li>
@@ -10,10 +10,10 @@
     <li>Making chain requests </li>
     <li>Writing assertions with JavaScript</li>    
   </ul>
-
-  <h3>Public API Experience</h3>
+<br></br>
+  <h2>Public API Experience</h2>
   
-  <p>To gain hands-on experience, I've actively worked with various public APIs, such as XYZ, XZ1, and ZY2N. Through these experiences, I've honed my skills in API testing and developed a deep understanding of real-world API interactions.</p>
+<p>To gain hands-on experience, I've actively worked with various public APIs, such as <strong>Restful Booker</strong>, <strong>Czy IT jest dla mnie</strong>, <strong>TRELLO</strong>. Through these experiences, I've honed my skills in API testing and developed a deep understanding of real-world API interactions.</p>
 
 <p>If you're interested in exploring the API documentation for these services, you can find them here:</p>
 
@@ -28,8 +28,10 @@
   <p>If you're interested in exploring my Postman collections, feel free to click the link below to view them directly in Postman online or download them from my GitHub repository:</p>
 <a href="[Your Postman Collection URL]" target="_blank">View My Postman Collections</a>
 
-<h3>Example</h3>
-<p>If you don't have time for an in-depth dive, here's a quick glimpse of what you can expect inside:</p>
+
+<br></br>
+<h2>Example</h2>
+<p>If you don't have time for an in-depth dive into my collections, here's a quick glimpse of what you can expect inside:</p>
 
 
 </section>
