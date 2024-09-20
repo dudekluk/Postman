@@ -1,6 +1,6 @@
 <section>
   <h1>API Testing with Postman</h1>
-  <p>As part of my software testing development, I've honed my skills in API testing using Postman. This powerful tool has enabled me to effectively validate the functionality of various APIs. I have developed a strong foundation in API testing methodologies and best practices. I am confident in my ability to effectively test APIs, identify defects, and contribute to the overall quality of software applications</p>
+  <p>As part of my software testing development, I've honed my skills in API testing using Postman. This powerful tool has enabled me to effectively validate the functionality of various APIs. I have developed a strong foundation in API testing methodologies and best practices. I am confident in my ability to effectively test APIs, identify defects, and contribute to the overall quality of software applications.</p>
   
   <h3>Key skills:</h3>
   <ul>
@@ -26,12 +26,31 @@
 
 
   <p>If you're interested in exploring my Postman collections, feel free to click the link below to view them directly in Postman online or download them from my GitHub repository:</p>
-<a href="[Your Postman Collection URL]" target="_blank">View My Postman Collections</a>
+<a href="https://www.postman.com/first-team-3640/projekt/overview" target="_blank">View my collections directly in Postman</a>
 
 
 <br></br>
-<h2>Example</h2>
+<h2>Examples</h2>
 <p>If you don't have time for an in-depth dive into my collections, here's a quick glimpse of what you can expect inside:</p>
 
+<br></br>
+
+<a name="Qase-5">Postman assertion scripts for getting all the items from the list on trello board.</a>
+
+ ---
+ 
+![Alt text](https://github.com/dudekluk/Postman/blob/main/img/Trello.png "TrellorCollection")
+
+<br></br>
+<a name="Qase-5">Postman assertion scripts for getting all the bookings from example ticket booking app.</a>
+ 
+ ---
+![Alt text](https://github.com/dudekluk/Postman/blob/main/img/Swagger.png "SwaggerCollection")
+
+<br></br>
+<a name="Qase-5">Postman collction run report.</a>
+ 
+ ---
+![Alt text](https://github.com/dudekluk/Postman/blob/main/img/TrelloReport.png "SwaggerCollection")
 
 </section>
