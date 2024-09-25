@@ -1,56 +1,46 @@
-<section>
-  <h1>API Testing with Postman</h1>
-  <p>As part of my software testing development, I've honed my skills in API testing using Postman. This powerful tool has enabled me to effectively validate the functionality of various APIs. I have developed a strong foundation in API testing methodologies and best practices. I am confident in my ability to effectively test APIs, identify defects, and contribute to the overall quality of software applications.</p>
+  <h2>API Testing with Postman</h2>
+In my journey as a software tester, I’ve developed strong skills in API testing using Postman. This powerful tool allowed me to effectively validate the functionality of various APIs. I have a solid foundation in API testing methodologies and best practices, enabling me to identify defects and contribute to the overall quality of software applications.
   
+
   <h3>Key skills:</h3>
-  <ul>
-    <li>Creating and running collections</li>
-    <li>Testing REST APIs using HTTP methods(GET, POST, PUT, PATCH, DELETE)</li>
-    <li>Creating and using variables</li>
-    <li>Making chain requests </li>
-    <li>Writing assertions with JavaScript</li>    
-  </ul>
-<br></br>
-  <h2>Public API Experience</h2>
   
-<p>To gain hands-on experience, I've actively worked with various public APIs, such as <strong>Restful Booker</strong>, <strong>Czy IT jest dla mnie</strong>, <strong>TRELLO</strong>. Through these experiences, I've honed my skills in API testing and developed a deep understanding of real-world API interactions.</p>
+* Testing REST APIs using HTTP methods(GET, POST, PUT, PATCH, DELETE)
+* Creating and running collections
+* Creating and using variables
+* Making chain requests
+* Writing assertions with JavaScript   
 
-<p>If you're interested in exploring the API documentation for these services, you can find them here:</p>
+<h2>Public API Experience</h2>
+  
+To gain hands-on experience, I’ve worked with various public APIs, such as <strong>Restful Booker</strong>, <strong>Czy IT jest dla mnie</strong>, <strong>TRELLO</strong>. These experiences have sharpened my API testing skills and deepened my understanding of real-world API interactions.
+
+If you're interested in exploring the API documentation for these services, you can find them here:
+
+* **Playground "Restful-Booker"**: [Link to API documentation](https://restful-booker.herokuapp.com/apidoc)
+* **Czy IT jest dla mnie**: [Link to API documentation](https://testing-platform.czyitjestdlamnie.pl/api/swagger-api-demo)
+* **TRELLO API**: [Link to API documentation](https://developer.atlassian.com/cloud/trello/rest/api-group-actions/#api-group-actions)
 
 
-<ul>
-  <li><strong>Playground "Restful-Booker":</strong> <a href="https://restful-booker.herokuapp.com/apidoc/">Link to API documentation</a></li>
-  <li><strong>Czy IT jest dla mnie:</strong> <a href="https://testing-platform.czyitjestdlamnie.pl/api/swagger-api-demo/">Link to API documentation</a></li>
-  <li><strong>TRELLO API:</strong> <a href="https://developer.atlassian.com/cloud/trello/rest/api-group-actions/#api-group-actions">Link to API documentation</a></li>
-</ul>
+If you’re interested in exploring my Postman collections, you can view them directly in Postman online or download them from my GitHub repository:  [View my collections directly in Postman](https://www.postman.com/first-team-3640/projekt/overview)
 
-
-  <p>If you're interested in exploring my Postman collections, feel free to click the link below to view them directly in Postman online or download them from my GitHub repository:</p>
-<a href="https://www.postman.com/first-team-3640/projekt/overview" target="_blank">View my collections directly in Postman</a>
-
-
-<br></br>
 <h2>Examples</h2>
-<p>If you don't have time for an in-depth dive into my collections, here's a quick glimpse of what you can expect inside:</p>
 
-<br></br>
+If you don't have time for an in-depth dive into my collections, here's a quick glimpse of what you can expect inside:
 
-<a name="Qase-5">Postman assertion scripts for getting all the items from the list on trello board.</a>
 
- ---
- 
+### Postman assertion scripts for getting all the items from the list on trello board.
+
 ![Alt text](https://github.com/dudekluk/Postman/blob/main/img/Trello.png "TrellorCollection")
 
-<br></br>
-<a name="Qase-5">Postman assertion scripts for getting all the bookings from example ticket booking app.</a>
+
+
+### Postman assertion scripts for getting all the bookings from example ticket booking app.
  
- ---
 ![Alt text](https://github.com/dudekluk/Postman/blob/main/img/Swagger.png "SwaggerCollection")
 
-<br></br>
-<a name="Qase-5">Postman collction run report.</a>
+
+### Postman collction run report.
  
- ---
 ![Alt text](https://github.com/dudekluk/Postman/blob/main/img/TrelloReport.png "SwaggerCollection")
 
-</section>
+
